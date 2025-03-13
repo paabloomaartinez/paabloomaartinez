@@ -8,7 +8,7 @@ En este espacio encontrarás algunos de mis proyectos, desde trabajos académico
 Me gusta construir cosas que funcionen bien y sean fáciles de usar. Siempre estoy explorando nuevas formas de mejorar mi código y aprender de cada proyecto.  
 
 ## 📫 Contacto  
-✉️ Correo: [pablo121002@gmail.com](mailto:pablo121002@gmail.com)  
+✉️ Correo: pablo121002@gmail.com
 💼 LinkedIn: [linkedin.com/in/pablomartinezamunarriz](https://linkedin.com/in/pablomartinezamunarriz)
 
 🚀 Siempre en busca de nuevos aprendizajes. 
