@@ -1,6 +1,6 @@
 # 👋 Hola, soy Pablo Martinez Amunarriz
 
-Soy graduado en Ingeniería Informática en la Universidad del País Vasco (UPV/EHU) y actualmente curso un Máster en Desarrollo de Aplicaciones y Servicios Web en la Universidad Internacional de Valencia (VIU). Me interesa el desarrollo de software y me gusta enfrentarme a nuevos retos que me ayuden a mejorar mis habilidades. 
+Soy graduado en Ingeniería Informática con mención en Ingeniería del Software en la Universidad del País Vasco (UPV/EHU). Actualmente curso un Máster en Desarrollo de Aplicaciones y Servicios Web en la Universidad Internacional de Valencia (VIU). Me interesa el desarrollo de software y me gusta enfrentarme a nuevos retos que me ayuden a mejorar mis habilidades. 
 
 En este espacio encontrarás algunos de mis proyectos, desde trabajos académicos hasta ideas en las que experimento y aprendo.  
 
